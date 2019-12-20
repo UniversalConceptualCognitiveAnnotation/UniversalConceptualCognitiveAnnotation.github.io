@@ -12,7 +12,7 @@ This page contains links to all of UCCA's resources: corpora, annotation guideli
 
 **Universal Conceptual Cognitive Annotation (UCCA)**  
 [Omri Abend](index.html) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2013](http://acl2013.org)_  
-\[Paper: [pdf](papers/ucca_acl.pdf)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/P13-1023.pdf)\]
 
 ## Annotation Web-App
 
@@ -26,7 +26,7 @@ The app supports configurable multi-layer annotation and task management, and is
 
 ## Guidelines
 
-UCCA-annotated corpora include the guidelines version they were compiled with in their repository. The most up to date guidelines are available here (the most recent one is generally in draft mode, but see releases): \[[pdf](https://github.com/UniversalConceptualCognitiveAnnotation/docs)\].
+UCCA-annotated corpora include the guidelines version they were compiled with in their repository. The most up to date guidelines are available here (the most recent one is generally in draft mode, but see releases): \[[github](https://github.com/UniversalConceptualCognitiveAnnotation/docs)\].
 
 ## UCCA-Annotated Corpora
 
@@ -50,52 +50,52 @@ Python source code for reading and manipulating the UCCA structures. The code wa
 
 **Content Differences in Syntactic and Semantic Representations.**  
 [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[NAACL 2019](https://naacl2019.org/) (long paper)._  
-\[Paper: [pdf](papers/divergences.pdf)\] \[Supp. Material: [pdf](papers/divergences_supp.pdf)\] \[Code: [github](https://github.com/danielhers/synsem)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/N19-1047.pdf)\] \[Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/N19-1047.Supplementary.pdf)\] \[Code: [github](https://github.com/danielhers/synsem)\]
 
 **Multitask Parsing Across Semantic Representations.**  
 [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2018](http://acl2018.org) (long paper)._  
-\[Paper: [pdf](papers/multitask_tupa.pdf)\] \[Supp. Material: [pdf](papers/multitask_tupa_supplementary.pdf)\] \[Code: [github](https://github.com/danielhers/tupa)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/P18-1035.pdf)\] \[Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/P18-1035.Notes.pdf)\] \[Code: [github](https://github.com/danielhers/tupa)\]
 
 **Simple and Effective Text Simplification using Semantic and Neural Methods.**  
 [Elior Sulem](http://www.cs.huji.ac.il/~eliors/), Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2018](http://acl2018.org/)_ (long paper).  
-\[Paper: [pdf](papers/simplification_ucca.pdf)\] \[Data: [github](https://github.com/eliorsulem/simplification-acl2018)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/P18-1016.pdf)\] \[Data: [github](https://github.com/eliorsulem/simplification-acl2018)\]
 
 **Reference-less Measure of Faithfulness for Grammatical Error Correction**  
 [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen/) and Omri Abend. [NAACL 2018](http://naacl2018.org/) (short paper).  
-\[Paper: [pdf](papers/uccasim_main.pdf)\] \[Supp. Material: [pdf](papers/uccasim_supplementary.pdf)\] \[Code: [github](https://github.com/borgr/USim)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/N18-2020.pdf)\] \[Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/N18-2020.Notes.pdf)\] \[Code: [github](https://github.com/borgr/USim)\]
 
 **Semantic Structural Evaluation for Text Simplification**  
 [Elior Sulem](http://www.cs.huji.ac.il/~eliors/), Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). [NAACL 2018](http://naacl2018.org/) (long paper).  
-\[Paper: [pdf](papers/samsa.pdf)\] \[Data & Code: [github](https://github.com/eliorsulem/SAMSA)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/N18-1063.pdf)\] \[Data & Code: [github](https://github.com/eliorsulem/SAMSA)\]
 
 **A Transition-Based Directed Acyclic Graph Parser for UCCA.**  
 [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2017](http://acl2017.org) (long paper)._ Outstanding Paper Award.  
-\[Paper: [pdf](papers/tupa.pdf)\] \[Supp. Material: [pdf](papers/tupa_supp.pdf)\] \[Code & Data: [github](https://github.com/danielhers/tupa/)\] \[[Demo](http://www.cs.huji.ac.il/~danielh/ucca/)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/P17-1104.pdf)\] \[Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/P17-1104.Notes.pdf)\] \[Code & Data: [github](https://github.com/danielhers/tupa/)\] \[[Demo](http://www.cs.huji.ac.il/~danielh/ucca/)\]
 
 **UCCAApp: Web-application for Syntactic and Semantic Phrase-based Annotation.**  
 Omri Abend, Shai Yerushalmi and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2017](http://acl2017.org) (demo paper)._  
-\[Paper: [pdf](papers/ucca_app_demo_cameraready.pdf)\] \[Code: [github](https://github.com/omriabnd/UCCA-App)\] \[[Demo](http://ucca-demo.cs.huji.ac.il)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/P17-4019.pdf)\] \[Code: [github](https://github.com/omriabnd/UCCA-App)\] \[[Demo](http://ucca-demo.cs.huji.ac.il)\]
 
 **The State of the Art in Semantic Representation.**  
 Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2017](http://acl2017.org) (long paper)._  
-\[Paper: [pdf](papers/sem_rep_survey.pdf)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/P17-1008.pdf)\]
 
 **HUME: Human UCCA-Based Evaluation of Machine Translation**  
 [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/), Omri Abend, [Ondřej Bojar](http://www1.cuni.cz/~obo/) and [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/), _[EMNLP 2016](http://www.emnlp2016.net/) (long paper)._  
-\[Paper: [pdf](papers/hume.pdf)\] \[Data: [github](https://github.com/bhaddow/hume-emnlp16)\] \[[Demo](hume_demo.html)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/D16-1134.pdf)\] \[Data: [github](https://github.com/bhaddow/hume-emnlp16)\] \[[Demo](hume_demo.html)\]
 
 **Conceptual Annotations Preserve Structure Across Translations: A French-English Case Study**  
 [Elior Sulem](http://www.cs.huji.ac.il/~eliors/), Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir),  
 _[ACL 2015 Workshop on Semantics-Driven Statistical Machine Translation (S2MT)](http://hlt.suda.edu.cn/workshop/s2mt/)._  
-\[Paper: [pdf](papers/S2MT_paper.pdf)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/W15-3502.pdf)\]
 
 **Universal Conceptual Cognitive Annotation (UCCA)**  
 [Omri Abend](index.html) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2013](http://acl2013.org) (long paper)_  
-\[Paper: [pdf](papers/ucca_acl.pdf)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/P13-1023.pdf)\]
 
 **UCCA: A Semantics-based Grammatical Annotation Scheme**  
 Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[IWCS 2013](http://www.ling.uni-potsdam.de/iwcs2013/) (long paper)_  
-\[Paper: [pdf](papers/ucca_iwcs.pdf)\]
+\[Paper: [pdf](https://www.aclweb.org/anthology/W13-0101.pdf)\]
 
 ## Theses
 
