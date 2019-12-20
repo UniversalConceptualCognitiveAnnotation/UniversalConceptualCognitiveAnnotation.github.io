@@ -99,32 +99,37 @@ Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[IWCS 2013](htt
 
 ## Theses
 
+**Universal Semantic Parsing with Neural Networks**  
+[Daniel Hershcovich](https://danielhers.github.io/), PhD Thesis,  
+The Hebrew University of Jerusalem, 2019  
+\[Paper: [pdf](https://danielhers.github.io/thesis.pdf)\]
+
 **Measuring Semantic Preservation in Machine Translation with HCOMET: Human Cognitive Metric for Evaluating Translation**  
 Pedro Marinotti, MSc Thesis,  
 The University of Edinburgh, 2014  
-\[Paper: [pdf](papers/pedro_thesis.pdf)\]
+\[Paper: [pdf](https://www.cse.huji.ac.il/~oabend/papers/pedro_thesis.pdf)\]
 
 **Integration of a cognitive annotation into machine translation: Theoretical foundations and bilingual corpus analysis**  
 [Elior Sulem](http://www.cs.huji.ac.il/~eliors/), MSc Thesis,  
 The Hebrew University of Jerusalem, 2014  
-\[Paper: [pdf](ucca/Elior_Sulem_thesis.pdf)\]
+\[Paper: [pdf](https://www.cse.huji.ac.il/~oabend/ucca/Elior_Sulem_thesis.pdf)\]
 
 **Semi-supervised identification of scene-evoking nouns in UCCA**  
 Amit Beka, MSc Thesis,  
 The Hebrew University of Jerusalem, 2013  
-\[Paper: [pdf](papers/beka_thesis.pdf)\]
+\[Paper: [pdf](https://www.cse.huji.ac.il/~oabend/papers/beka_thesis.pdf)\]
 
 **Grammatical Annotation Founded on Semantics: A Cognitive Linguistics Approach to Grammatical Corpus Annotation**  
-[Omri Abend](index.html), PhD Thesis,  
+[Omri Abend](https://www.cse.huji.ac.il/~oabend/), PhD Thesis,  
 The Hebrew University of Jerusalem, 2013  
-\[Paper: [pdf](papers/omri_thesis.pdf)\]
+\[Paper: [pdf](https://www.cse.huji.ac.il/~oabend/papers/omri_thesis.pdf)\]
 
 ## Reports
 
 **Distinguishing Human Translations and Machine Outputs with UCCA**  
 Michal Kessler, Lab Report,  
 The Hebrew University of Jerusalem, 2019  
-\[Paper: [pdf](ucca/michal_lab_summary.pdf)\]
+\[Paper: [pdf](https://www.cse.huji.ac.il/~oabend/ucca/michal_lab_summary.pdf)\]
 
 ## Contact
 
