@@ -48,6 +48,10 @@ Python source code for reading and manipulating the UCCA structures. The code wa
 
 ## Publications
 
+**Content Differences in Syntactic and Semantic Representations.**  
+[Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[NAACL 2019](https://naacl2019.org/) (long paper)._  
+\[Paper: [pdf](papers/divergences.pdf)\] \[Supp. Material: [pdf](papers/divergences_supp.pdf)\] \[Code: [github](https://github.com/danielhers/synsem)\]
+
 **Multitask Parsing Across Semantic Representations.**  
 [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), Omri Abend and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2018](http://acl2018.org) (long paper)._  
 \[Paper: [pdf](papers/multitask_tupa.pdf)\] \[Supp. Material: [pdf](papers/multitask_tupa_supplementary.pdf)\] \[Code: [github](https://github.com/danielhers/tupa)\]
