@@ -76,7 +76,30 @@ It can be installed by: [![PyPI version](https://badge.fury.io/py/UCCA.svg)](htt
 
 ## Shared Tasks
 
+UCCA was targeted in the following public parsing competitions, which accompanied top-tier NLP conferences:
 
+### SemEval 2019 Task 1
+
+The task included open and closed tracks on English, French and German UCCA corpora from Wikipedia and Twenty Thousand Leagues Under the Sea.
+
+Evaluation is done by labeled F1 on the graph edges, matched by child terminal yield.
+
+| SemEval-2019 Task 1: Cross-lingual Semantic Parsing with UCCA.
+| ---
+| [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), Zohar Aizenbud, [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen/), [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Ari Rappoport](http://www.cs.huji.ac.il/~arir) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/), _[SemEval 2019](http://alt.qcri.org/semeval2019/) (shared task)_.
+| [Paper: [pdf](https://www.aclweb.org/anthology/S19-2001.pdf)] [Website: [link](https://competitions.codalab.org/competitions/19160)] [Training and development data: [link](https://competitions.codalab.org/my/datasets/download/fa60feac-54d1-43b1-9eba-48db775757ba)] [Test data: [link](https://competitions.codalab.org/my/datasets/download/8c020e3b-f68f-48f8-9629-bd92491d9295)] [Code: [github](https://github.com/danielhers/semeval-ucca)]
+
+### CoNLL 2019 MRP Shared Task
+
+The task included parsing to [AMR](https://amr.isi.edu/), UCCA, [DM, PSD](http://sdp.delph-in.net/), and [EDS](http://moin.delph-in.net/EdsTop).
+The UCCA training data is freely available.
+
+UCCA evaluation is done both by UCCA F1 (as in [SemEval 2019](#semeval-2019-task-1)) and by the MRP metric, which is similar to [smatch](https://github.com/snowblink14/smatch). The training data contains 6,572 sentences from web reviews and Wikipedia. There are two evaluation sets: one with 1,131, from the same domains (Full), and one with 87 sentences, from The Little Prince (LPP). Note that due to an error, 535 of the 1,131 Full Evaluation sentences were included in the training data, and therefore the full evaluation scores are an overestimate. The LPP scores are unaffected by this.
+
+| MRP 2019: Cross-Framework Meaning Representation Parsing.
+| ---
+| Stephan Oepen, Omri Abend, Jan Hajic, Daniel Hershcovich, Marco Kuhlmann, Tim O’Gorman, Nianwen Xue, Jayeol Chun, Milan Straka, Zdenka Uresova, _[CoNLL 2019](https://www.conll.org/2019) (shared task)_.
+| [Paper: [pdf](https://www.aclweb.org/anthology/K19-2001.pdf)] [Website: [link](http://mrp.nlpl.eu/)] [UCCA data: [link](http://svn.nlpl.eu/mrp/2019/public/ucca.tgz)] [Code: [github](https://github.com/cfmrp/mtool)]
 
 ## Publications
 
