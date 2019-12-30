@@ -1,4 +1,4 @@
-# UCCA ![UCCA logo](logo6.png)
+# ![UCCA logo](logo6.png) UCCA
 
 Universal Conceptual Cognitive Annotation (UCCA) is a novel semantic approach to grammatical representation. It was developed in the Computational Linguistics Lab of the Hebrew University by [Omri Abend](http://www.cs.huji.ac.il/~oabend) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir).
 
