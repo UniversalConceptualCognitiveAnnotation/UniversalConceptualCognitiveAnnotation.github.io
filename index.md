@@ -22,7 +22,7 @@ Formally, it supports DAG structures, discontiguous units and multiple categorie
 
 The app supports configurable multi-layer annotation and task management, and is written in Django and AngularJS.
 
-\[[Paper](#uccaapp)\] \[[Demo](http://ucca-demo.cs.huji.ac.il)\] \[[Code](https://github.com/omriabnd/UCCA-App)\]
+\[[Paper](https://www.aclweb.org/anthology/P17-4019.pdf)\] \[[Demo](http://ucca-demo.cs.huji.ac.il)\] \[[Code](https://github.com/omriabnd/UCCA-App)\]
 
 ## Guidelines
 
