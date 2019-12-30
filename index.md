@@ -88,7 +88,7 @@ It can be installed by: [![PyPI version](https://badge.fury.io/py/UCCA.svg)](htt
 
 | Simple and Effective Text Simplification using Semantic and Neural Methods.
 | ---
-| [Elior Sulem](http://www.cs.huji.ac.il/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2018](http://acl2018.org/)_ (long paper).  
+| [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2018](http://acl2018.org/)_ (long paper).  
 | [Paper: [pdf](https://www.aclweb.org/anthology/P18-1016.pdf)\] [Data: [github](https://github.com/eliorsulem/simplification-acl2018)\]
 
 | Reference-less Measure of Faithfulness for Grammatical Error Correction
@@ -98,7 +98,7 @@ It can be installed by: [![PyPI version](https://badge.fury.io/py/UCCA.svg)](htt
 
 | Semantic Structural Evaluation for Text Simplification
 | ---
-| [Elior Sulem](http://www.cs.huji.ac.il/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). [NAACL 2018](http://naacl2018.org/) (long paper).  
+| [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). [NAACL 2018](http://naacl2018.org/) (long paper).  
 | [Paper: [pdf](https://www.aclweb.org/anthology/N18-1063.pdf)\] [Data & Code: [github](https://github.com/eliorsulem/SAMSA)\]
 
 | A Transition-Based Directed Acyclic Graph Parser for UCCA.
@@ -123,7 +123,7 @@ It can be installed by: [![PyPI version](https://badge.fury.io/py/UCCA.svg)](htt
 
 | Conceptual Annotations Preserve Structure Across Translations: A French-English Case Study
 | ---
-| [Elior Sulem](http://www.cs.huji.ac.il/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2015 Workshop on Semantics-Driven Statistical Machine Translation (S2MT)](http://hlt.suda.edu.cn/workshop/s2mt/)._  
+| [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2015 Workshop on Semantics-Driven Statistical Machine Translation (S2MT)](http://hlt.suda.edu.cn/workshop/s2mt/)._  
 | [Paper: [pdf](https://www.aclweb.org/anthology/W15-3502.pdf)\]
 
 | Universal Conceptual Cognitive Annotation (UCCA)
@@ -152,7 +152,7 @@ It can be installed by: [![PyPI version](https://badge.fury.io/py/UCCA.svg)](htt
 
 | Integration of a cognitive annotation into machine translation: Theoretical foundations and bilingual corpus analysis
 | ---
-| [Elior Sulem](http://www.cs.huji.ac.il/~eliors/), MSc Thesis,  
+| [Elior Sulem](https://www.cis.upenn.edu/~eliors/), MSc Thesis,  
 | The Hebrew University of Jerusalem, 2014  
 | [Paper: [pdf](https://www.cse.huji.ac.il/~oabend/ucca/Elior_Sulem_thesis.pdf)\]
 
