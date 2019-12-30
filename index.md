@@ -90,7 +90,7 @@ _[ACL 2015 Workshop on Semantics-Driven Statistical Machine Translation (S2MT)](
 \[Paper: [pdf](https://www.aclweb.org/anthology/W15-3502.pdf)\]
 
 **Universal Conceptual Cognitive Annotation (UCCA)**  
-[[Omri Abend](https://www.cse.huji.ac.il/~oabend/)](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2013](http://acl2013.org) (long paper)_  
+[Omri Abend](https://www.cse.huji.ac.il/~oabend/)](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2013](http://acl2013.org) (long paper)_  
 \[Paper: [pdf](https://www.aclweb.org/anthology/P13-1023.pdf)\]
 
 **UCCA: A Semantics-based Grammatical Annotation Scheme**  
