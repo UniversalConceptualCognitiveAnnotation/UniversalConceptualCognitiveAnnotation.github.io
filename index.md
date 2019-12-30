@@ -12,7 +12,7 @@ This page contains links to all of UCCA's resources: corpora, annotation guideli
 
 | Universal Conceptual Cognitive Annotation (UCCA).
 | ---
-| [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2013](http://acl2013.org)_  
+| [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2013](http://acl2013.org)_.  
 | [Paper: [pdf](https://www.aclweb.org/anthology/P13-1023.pdf)\]
 
 ## Annotation Web-App
@@ -74,6 +74,10 @@ It can be installed by: [![PyPI version](https://badge.fury.io/py/UCCA.svg)](htt
 
 [Code: [github](https://github.com/danielhers/ucca)\]
 
+## Shared Tasks
+
+
+
 ## Publications
 
 | Content Differences in Syntactic and Semantic Representations.
@@ -91,12 +95,12 @@ It can be installed by: [![PyPI version](https://badge.fury.io/py/UCCA.svg)](htt
 | [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2018](http://acl2018.org/)_ (long paper).  
 | [Paper: [pdf](https://www.aclweb.org/anthology/P18-1016.pdf)\] [Data: [github](https://github.com/eliorsulem/simplification-acl2018)\]
 
-| Reference-less Measure of Faithfulness for Grammatical Error Correction
+| Reference-less Measure of Faithfulness for Grammatical Error Correction.
 | ---
 | [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen/) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/). [NAACL 2018](http://naacl2018.org/) (short paper).  
 | [Paper: [pdf](https://www.aclweb.org/anthology/N18-2020.pdf)\] [Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/N18-2020.Notes.pdf)\] [Code: [github](https://github.com/borgr/USim)\]
 
-| Semantic Structural Evaluation for Text Simplification
+| Semantic Structural Evaluation for Text Simplification.
 | ---
 | [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). [NAACL 2018](http://naacl2018.org/) (long paper).  
 | [Paper: [pdf](https://www.aclweb.org/anthology/N18-1063.pdf)\] [Data & Code: [github](https://github.com/eliorsulem/SAMSA)\]
@@ -116,53 +120,53 @@ It can be installed by: [![PyPI version](https://badge.fury.io/py/UCCA.svg)](htt
 | [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2017](http://acl2017.org) (long paper)._  
 | [Paper: [pdf](https://www.aclweb.org/anthology/P17-1008.pdf)\]
 
-| HUME: Human UCCA-Based Evaluation of Machine Translation
+| HUME: Human UCCA-Based Evaluation of Machine Translation.
 | ---
 | [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/), [Ondřej Bojar](http://www1.cuni.cz/~obo/) and [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/), _[EMNLP 2016](http://www.emnlp2016.net/) (long paper)._  
 | [Paper: [pdf](https://www.aclweb.org/anthology/D16-1134.pdf)\] [Data: [github](https://github.com/bhaddow/hume-emnlp16)\] [[Demo](https://www.cse.huji.ac.il/~oabend/hume_demo.html)\]
 
-| Conceptual Annotations Preserve Structure Across Translations: A French-English Case Study
+| Conceptual Annotations Preserve Structure Across Translations: A French-English Case Study.
 | ---
 | [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2015 Workshop on Semantics-Driven Statistical Machine Translation (S2MT)](http://hlt.suda.edu.cn/workshop/s2mt/)._  
 | [Paper: [pdf](https://www.aclweb.org/anthology/W15-3502.pdf)\]
 
-| Universal Conceptual Cognitive Annotation (UCCA)
+| Universal Conceptual Cognitive Annotation (UCCA).
 | ---
-| [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2013](http://acl2013.org) (long paper)_  
+| [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2013](http://acl2013.org) (long paper)_.  
 | [Paper: [pdf](https://www.aclweb.org/anthology/P13-1023.pdf)\]
 
-| UCCA: A Semantics-based Grammatical Annotation Scheme
+| UCCA: A Semantics-based Grammatical Annotation Scheme.
 | ---
-| [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[IWCS 2013](http://www.ling.uni-potsdam.de/iwcs2013/) (long paper)_  
+| [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[IWCS 2013](http://www.ling.uni-potsdam.de/iwcs2013/) (long paper)_.  
 | [Paper: [pdf](https://www.aclweb.org/anthology/W13-0101.pdf)\]
 
 ## Theses
 
-| Universal Semantic Parsing with Neural Networks
+| Universal Semantic Parsing with Neural Networks.
 | ---
 | [Daniel Hershcovich](https://danielhers.github.io/), PhD Thesis,  
 | The Hebrew University of Jerusalem, 2019  
 | [Paper: [pdf](https://danielhers.github.io/thesis.pdf)\]
 
-| Measuring Semantic Preservation in Machine Translation with HCOMET: Human Cognitive Metric for Evaluating Translation
+| Measuring Semantic Preservation in Machine Translation with HCOMET: Human Cognitive Metric for Evaluating Translation.
 | ---
 | Pedro Marinotti, MSc Thesis,  
 | The University of Edinburgh, 2014  
 | [Paper: [pdf](https://www.cse.huji.ac.il/~oabend/papers/pedro_thesis.pdf)\]
 
-| Integration of a cognitive annotation into machine translation: Theoretical foundations and bilingual corpus analysis
+| Integration of a cognitive annotation into machine translation: Theoretical foundations and bilingual corpus analysis.
 | ---
 | [Elior Sulem](https://www.cis.upenn.edu/~eliors/), MSc Thesis,  
 | The Hebrew University of Jerusalem, 2014  
 | [Paper: [pdf](https://www.cse.huji.ac.il/~oabend/ucca/Elior_Sulem_thesis.pdf)\]
 
-| Semi-supervised identification of scene-evoking nouns in UCCA
+| Semi-supervised identification of scene-evoking nouns in UCCA.
 | ---
 | Amit Beka, MSc Thesis,  
 | The Hebrew University of Jerusalem, 2013  
 | [Paper: [pdf](https://www.cse.huji.ac.il/~oabend/papers/beka_thesis.pdf)\]
 
-| Grammatical Annotation Founded on Semantics: A Cognitive Linguistics Approach to Grammatical Corpus Annotation
+| Grammatical Annotation Founded on Semantics: A Cognitive Linguistics Approach to Grammatical Corpus Annotation.
 | ---
 | [Omri Abend](https://www.cse.huji.ac.il/~oabend/), PhD Thesis,  
 | The Hebrew University of Jerusalem, 2013  
@@ -170,7 +174,7 @@ It can be installed by: [![PyPI version](https://badge.fury.io/py/UCCA.svg)](htt
 
 ## Reports
 
-| Distinguishing Human Translations and Machine Outputs with UCCA
+| Distinguishing Human Translations and Machine Outputs with UCCA.
 | ---
 | Michal Kessler, Lab Report,  
 | The Hebrew University of Jerusalem, 2019  
