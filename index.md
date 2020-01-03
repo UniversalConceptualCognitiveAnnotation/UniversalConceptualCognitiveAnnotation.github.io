@@ -112,6 +112,11 @@ UCCA evaluation is done both by UCCA F1 (as in SemEval 2019) and by the MRP metr
 | [Jakob Prange](https://prange.jakob.georgetown.domains/), [Nathan Schneider](http://nathan.cl/) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/). _[ACL 2019 Workshop on Designing Meaning Representations (DMR)](https://www.cs.brandeis.edu/~clp/dmr/)._
 | [Paper: [pdf](https://www.aclweb.org/anthology/W19-3319.pdf)] [Data: [github](https://github.com/jakpra/UCoref)]
 
+| Preparing SNACS for Subjects and Objects
+| ---
+| Adi Shalev, [Jena D. Hwang](http://verbs.colorado.edu/~hwangd/), [Nathan Schneider](http://nathan.cl/), [Vivek Srikumar](https://svivek.com/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2019 Workshop on Designing Meaning Representations (DMR)](https://www.cs.brandeis.edu/~clp/dmr/)._
+| [Paper: [pdf](https://www.aclweb.org/anthology/W19-3316.pdf)] [Data: [github](https://github.com/adishalev/SNACS_DMR_IAA)]
+
 | Content Differences in Syntactic and Semantic Representations.
 | ---
 | [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[NAACL 2019](https://naacl2019.org/) (long paper)._  
