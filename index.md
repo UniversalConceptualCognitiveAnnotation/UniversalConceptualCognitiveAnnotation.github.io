@@ -102,17 +102,17 @@ UCCA evaluation is done both by UCCA F1 (as in SemEval 2019) and by the MRP metr
 
 ## Publications
 
-| Made for Each Other: Broad-Coverage Semantic Structures Meet Preposition Supersenses
+| Made for Each Other: Broad-Coverage Semantic Structures Meet Preposition Supersenses.
 | ---
 | [Jakob Prange](https://prange.jakob.georgetown.domains/), [Nathan Schneider](http://nathan.cl/) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/). _[CoNLL 2019](https://www.conll.org/2019)._
 | [Paper: [pdf](https://www.aclweb.org/anthology/K19-1017.pdf)] [Code: [github](https://github.com/jakpra/tupa)] [Data: [github](https://github.com/jakpra/ucca-streusle)]
 
-| Semantically Constrained Multilayer Annotation: The Case of Coreference
+| Semantically Constrained Multilayer Annotation: The Case of Coreference.
 | ---
 | [Jakob Prange](https://prange.jakob.georgetown.domains/), [Nathan Schneider](http://nathan.cl/) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/). _[ACL 2019 Workshop on Designing Meaning Representations (DMR)](https://www.cs.brandeis.edu/~clp/dmr/)._
 | [Paper: [pdf](https://www.aclweb.org/anthology/W19-3319.pdf)] [Data: [github](https://github.com/jakpra/UCoref)]
 
-| Preparing SNACS for Subjects and Objects
+| Preparing SNACS for Subjects and Objects.
 | ---
 | Adi Shalev, [Jena D. Hwang](http://verbs.colorado.edu/~hwangd/), [Nathan Schneider](http://nathan.cl/), [Vivek Srikumar](https://svivek.com/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2019 Workshop on Designing Meaning Representations (DMR)](https://www.cs.brandeis.edu/~clp/dmr/)._
 | [Paper: [pdf](https://www.aclweb.org/anthology/W19-3316.pdf)] [Data: [github](https://github.com/adishalev/SNACS_DMR_IAA)]
