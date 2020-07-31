@@ -16,6 +16,9 @@ This page contains links to all of UCCA's resources: corpora, annotation guideli
 | [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir), _[ACL 2013](http://acl2013.org)_.  
 | [Paper: [pdf](https://www.aclweb.org/anthology/P13-1023.pdf)\]
 
+## Tutorial
+A tutorial on [Cross-lingual Semantic Representation for NLP with UCCA](https://github.com/UniversalConceptualCognitiveAnnotation/tutorial) will be presented at [COLING 2020](https://coling2020.org/), on December 12th, 2020 (morning session). See the [full list of COLING tutorials](https://coling2020.org/pages/tutorials).
+
 ## Annotation Web-App
 
 UCCAApp is a web application for phrase-based annotation in general, and UCCA parsing in particular.
