@@ -1,7 +1,4 @@
-> Consider participating in the [shared task on Cross-Framework Meaning Representation Parsing (MRP)](http://mrp.nlpl.eu) in
-> [CoNLL 2020](http://www.conll.org)!
-> AMR, DRG, EDS, PTD, and UCCA training data in several languages
-> is now available, and system outputs must be submitted between July 20–August 3, 2020.
+> A tutorial on [Cross-lingual Semantic Representation for NLP with UCCA](https://github.com/UniversalConceptualCognitiveAnnotation/tutorial) will be presented at [COLING 2020](https://coling2020.org/)!
 
 <img style="float: right; padding-top: 4em; padding-left: 1em;" src="logo6.png">
 Universal Conceptual Cognitive Annotation (UCCA) is a novel semantic approach to grammatical representation. It was developed in the Computational Linguistics Lab of the Hebrew University by [Omri Abend](http://www.cs.huji.ac.il/~oabend) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir).
