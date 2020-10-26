@@ -103,7 +103,7 @@ UCCA evaluation is done both by UCCA F1 (as in SemEval 2019) and by the MRP metr
 | MRP 2019: Cross-Framework Meaning Representation Parsing.
 | ---
 | Stephan Oepen, Omri Abend, Jan Hajic, Daniel Hershcovich, Marco Kuhlmann, Tim O’Gorman, Nianwen Xue, Jayeol Chun, Milan Straka, Zdenka Uresova, _[CoNLL 2019](https://www.conll.org/2019) (shared task)_.
-| [Paper: [pdf](https://www.aclweb.org/anthology/K19-2001.pdf)] [Website: [link](http://mrp.nlpl.eu/)] [UCCA data: [link](http://svn.nlpl.eu/mrp/2019/public/ucca.tgz)] [Code: [github](https://github.com/cfmrp/mtool)]
+| [Paper: [pdf](https://www.aclweb.org/anthology/K19-2001.pdf)] [Website: [link](http://mrp.nlpl.eu/)] [UCCA data: [link](http://svn.nlpl.eu/mrp/2019/public/ucca.tgz?p=28479)] [Code: [github](https://github.com/cfmrp/mtool)]
 
 ## Publications
 
