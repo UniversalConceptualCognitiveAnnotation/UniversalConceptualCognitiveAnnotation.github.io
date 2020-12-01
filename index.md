@@ -117,6 +117,11 @@ The task included parsing to [AMR](https://amr.isi.edu/), UCCA, PTG, DRG, and [E
 
 ## Publications
 
+| Semantic Structural Decomposition for Neural Machine Translation.
+| ---
+| [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). [*SEM 2020](https://sites.google.com/view/starsem2020/) (short paper).  
+| [Paper: [pdf](https://www.aclweb.org/anthology/2020.starsem-1.6.pdf)\] [Data & Code: [github](https://github.com/eliorsulem/Semantic-Structural-Decomposition-for-NMT)\]
+
 | Refining Implicit Argument Annotation For UCCA.
 | ---
 | Ruixiang Cui and [Daniel Hershcovich](http://danielhers.github.io/). _[DMR 2020](https://www.cs.brandeis.edu/~clp/dmr2020/)._
