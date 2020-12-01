@@ -187,7 +187,7 @@ UCCA evaluation is done both by UCCA F1 (as in SemEval 2019) and by the MRP metr
 | ---
 | Ruixiang Cui, MSc Thesis,  
 | University of Copenhagen, 2020  
-| [Paper: [pdf](https://danielhers.github.io/Ruixiang Cui_Thesis_Refining-and-Parsing-Implicit-Argument-in-UCCA.pdf)\]
+| [Paper: [pdf](<https://danielhers.github.io/Ruixiang Cui_Thesis_Refining-and-Parsing-Implicit-Argument-in-UCCA.pdf>)\]
 
 | Universal Semantic Parsing with Neural Networks.
 | ---
