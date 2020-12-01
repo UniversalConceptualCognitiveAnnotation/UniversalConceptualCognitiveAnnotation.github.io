@@ -61,8 +61,8 @@ TUPA is a transition-based parser for Universal Conceptual Cognitive Annotation 
 
 | A Transition-Based Directed Acyclic Graph Parser for UCCA.
 | ---
-| [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). [ACL 2017](http://acl2017.org).  
-| [Paper: [pdf](https://www.aclweb.org/anthology/P17-1104.pdf)\] [Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/P17-1104.Notes.pdf)\] [Code: [github](https://github.com/danielhers/tupa/)\] [[Demo](http://www.cs.huji.ac.il/~danielh/ucca/)\]
+| [Daniel Hershcovich](http://danielhers.github.io/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). [ACL 2017](http://acl2017.org).  
+| [Paper: [pdf](https://www.aclweb.org/anthology/P17-1104.pdf)\] [Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/P17-1104.Notes.pdf)\] [Code: [github](https://github.com/danielhers/tupa/)\] [[Demo](github.com/danielhers/tupa-demo)\]
 
 It can be installed by: [![PyPI version](https://badge.fury.io/py/TUPA.svg)](https://badge.fury.io/py/TUPA)
 
@@ -91,7 +91,7 @@ Evaluation is done by labeled F1 on the graph edges, matched by child terminal y
 
 | SemEval-2019 Task 1: Cross-lingual Semantic Parsing with UCCA.
 | ---
-| [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), Zohar Aizenbud, [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen/), [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Ari Rappoport](http://www.cs.huji.ac.il/~arir) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/), _[SemEval 2019](http://alt.qcri.org/semeval2019/) (shared task)_.
+| [Daniel Hershcovich](http://danielhers.github.io/), Zohar Aizenbud, [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen/), [Elior Sulem](https://www.cis.upenn.edu/~eliors/), [Ari Rappoport](http://www.cs.huji.ac.il/~arir) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/), _[SemEval 2019](http://alt.qcri.org/semeval2019/) (shared task)_.
 | [Paper: [pdf](https://www.aclweb.org/anthology/S19-2001.pdf)] [Website: [link](https://competitions.codalab.org/competitions/19160)] [Training and development data: [link](https://competitions.codalab.org/my/datasets/download/fa60feac-54d1-43b1-9eba-48db775757ba)] [Test data: [link](https://competitions.codalab.org/my/datasets/download/8c020e3b-f68f-48f8-9629-bd92491d9295)] [Code: [github](https://github.com/danielhers/semeval-ucca)]
 
 **CoNLL 2019 MRP Shared Task**
@@ -134,12 +134,12 @@ The task included parsing to [AMR](https://amr.isi.edu/), UCCA, PTG, DRG, and [E
 
 | Content Differences in Syntactic and Semantic Representations.
 | ---
-| [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[NAACL 2019](https://naacl2019.org/) (long paper)._  
+| [Daniel Hershcovich](http://danielhers.github.io/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[NAACL 2019](https://naacl2019.org/) (long paper)._  
 | [Paper: [pdf](https://www.aclweb.org/anthology/N19-1047.pdf)\] [Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/N19-1047.Supplementary.pdf)\] [Code: [github](https://github.com/danielhers/synsem)\]
 
 | Multitask Parsing Across Semantic Representations.
 | ---
-| [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2018](http://acl2018.org) (long paper)._  
+| [Daniel Hershcovich](http://danielhers.github.io/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2018](http://acl2018.org) (long paper)._  
 | [Paper: [pdf](https://www.aclweb.org/anthology/P18-1035.pdf)\] [Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/P18-1035.Notes.pdf)\] [Code: [github](https://github.com/danielhers/tupa)\]
 
 | Simple and Effective Text Simplification using Semantic and Neural Methods.
@@ -159,8 +159,8 @@ The task included parsing to [AMR](https://amr.isi.edu/), UCCA, PTG, DRG, and [E
 
 | A Transition-Based Directed Acyclic Graph Parser for UCCA.
 | ---
-| [Daniel Hershcovich](http://www.cs.huji.ac.il/~danielh/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2017](http://acl2017.org) (long paper)._ Outstanding Paper Award.  
-| [Paper: [pdf](https://www.aclweb.org/anthology/P17-1104.pdf)\] [Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/P17-1104.Notes.pdf)\] [Code: [github](https://github.com/danielhers/tupa/)\] [[Demo](http://www.cs.huji.ac.il/~danielh/ucca/)\]
+| [Daniel Hershcovich](http://danielhers.github.io/), [Omri Abend](https://www.cse.huji.ac.il/~oabend/) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir). _[ACL 2017](http://acl2017.org) (long paper)._ Outstanding Paper Award.  
+| [Paper: [pdf](https://www.aclweb.org/anthology/P17-1104.pdf)\] [Supp. Material: [pdf](https://www.aclweb.org/anthology/attachments/P17-1104.Notes.pdf)\] [Code: [github](https://github.com/danielhers/tupa/)\] [[Demo](https://github.com/danielhers/tupa-demo)\]
 
 | UCCAApp: Web-application for Syntactic and Semantic Phrase-based Annotation.
 | ---
