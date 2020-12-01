@@ -117,6 +117,11 @@ The task included parsing to [AMR](https://amr.isi.edu/), UCCA, PTG, DRG, and [E
 
 ## Publications
 
+| Comparison by Conversion: Reverse-Engineering UCCA from Syntax and Lexical Semantics.
+| ---
+| [Daniel Hershcovich](http://danielhers.github.io/), [Nathan Schneider](http://nathan.cl/), Dotan Dvir, [Jakob Prange](https://prange.jakob.georgetown.domains/), [Miryam de Lhoneux](https://cl.lingfil.uu.se/~miryam/) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/). _[CoNLL 2019](https://www.conll.org/2019)._
+| [Paper: [pdf](https://www.aclweb.org/anthology/2020.coling-main.264.pdf)] [Code: [github](https://github.com/danielhers/streusle/tree/streusle2ucca)]
+
 | Made for Each Other: Broad-Coverage Semantic Structures Meet Preposition Supersenses.
 | ---
 | [Jakob Prange](https://prange.jakob.georgetown.domains/), [Nathan Schneider](http://nathan.cl/) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/). _[CoNLL 2019](https://www.conll.org/2019)._
