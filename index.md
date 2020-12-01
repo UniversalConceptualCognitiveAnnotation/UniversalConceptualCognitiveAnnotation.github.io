@@ -117,9 +117,14 @@ The task included parsing to [AMR](https://amr.isi.edu/), UCCA, PTG, DRG, and [E
 
 ## Publications
 
+| Refining Implicit Argument Annotation For UCCA.
+| ---
+| Ruixiang Cui and [Daniel Hershcovich](http://danielhers.github.io/). _[DMR 2020](https://www.cs.brandeis.edu/~clp/dmr2020/)._
+| [Paper: [pdf](https://www.aclweb.org/anthology/2020.dmr-1.5.pdf)] [Data: [github](https://github.com/ruixiangcui/UCCA-Refined-Implicit-EWT_English)]
+
 | Comparison by Conversion: Reverse-Engineering UCCA from Syntax and Lexical Semantics.
 | ---
-| [Daniel Hershcovich](http://danielhers.github.io/), [Nathan Schneider](http://nathan.cl/), Dotan Dvir, [Jakob Prange](https://prange.jakob.georgetown.domains/), [Miryam de Lhoneux](https://cl.lingfil.uu.se/~miryam/) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/). _[CoNLL 2019](https://www.conll.org/2019)._
+| [Daniel Hershcovich](http://danielhers.github.io/), [Nathan Schneider](http://nathan.cl/), Dotan Dvir, [Jakob Prange](https://prange.jakob.georgetown.domains/), [Miryam de Lhoneux](https://cl.lingfil.uu.se/~miryam/) and [Omri Abend](https://www.cse.huji.ac.il/~oabend/). _[COLING 2020](https://coling2020.org/)._
 | [Paper: [pdf](https://www.aclweb.org/anthology/2020.coling-main.264.pdf)] [Code: [github](https://github.com/danielhers/streusle/tree/streusle2ucca)]
 
 | Made for Each Other: Broad-Coverage Semantic Structures Meet Preposition Supersenses.
