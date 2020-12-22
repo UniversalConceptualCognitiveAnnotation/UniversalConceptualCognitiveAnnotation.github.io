@@ -1,5 +1,3 @@
-> A tutorial on [Cross-lingual Semantic Representation for NLP with UCCA](https://github.com/UniversalConceptualCognitiveAnnotation/tutorial) is presented at [COLING 2020](https://coling2020.org/)!
-
 <img style="float: right; padding-top: 4em; padding-left: 1em;" src="logo6.png">
 
 Universal Conceptual Cognitive Annotation (UCCA) is a novel semantic approach to grammatical representation. It was developed in the Computational Linguistics Lab of the Hebrew University by [Omri Abend](http://www.cs.huji.ac.il/~oabend) and [Ari Rappoport](http://www.cs.huji.ac.il/~arir).
@@ -18,7 +16,7 @@ This page contains links to all of UCCA's resources: corpora, annotation guideli
 | [Paper: [pdf](https://www.aclweb.org/anthology/P13-1023.pdf)\]
 
 ## Tutorial
-A tutorial on [Cross-lingual Semantic Representation for NLP with UCCA](https://github.com/UniversalConceptualCognitiveAnnotation/tutorial) was presented at [COLING 2020](https://coling2020.org/). Pre-recorded presentations are available on the conference live website, and the live Q&A will take place on December 12th, 2020 at 14:30-18:00 CET.
+A tutorial on [Cross-lingual Semantic Representation for NLP with UCCA](https://github.com/UniversalConceptualCognitiveAnnotation/tutorial) was presented at [COLING 2020](https://coling2020.org/). All presentations are available on GitHub.
 
 ## Annotation Web-App
 
