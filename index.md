@@ -111,9 +111,39 @@ The task included parsing to [AMR](https://amr.isi.edu/), UCCA, PTG, DRG, and [E
 | MRP 2020: The Second Shared Task on Cross-Framework and Cross-Lingual Meaning Representation Parsing.
 | ---
 | Stephan Oepen, Omri Abend, Lasha Abzianidze, Johan Bos, Jan Hajic, Daniel Hershcovich, Bin Li, Tim O’Gorman, Nianwen Xue and Daniel Zeman, _[CoNLL 2020](https://www.conll.org/2020) (shared task)_.
-| [Paper: [pdf](https://www.aclweb.org/anthology/2020.conll-shared.1.pdf)] [Website: [link](http://mrp.nlpl.eu/2020)]
+| [Paper: [pdf](https://www.aclweb.org/anthology/2020.conll-shared.1.pdf)] [Website: [link](http://mrp.nlpl.eu/2020)] [Data: [link](http://hdl.handle.net/11234/1-4614)]
 
 ## Publications
+
+| Semantics-aware Attention Improves Neural Machine Translation
+| ---
+| Aviv Slobodkin, Leshem Choshen and [Omri Abend](https://www.cse.huji.ac.il/~oabend/). 
+| [Paper: [pdf](https://arxiv.org/pdf/2110.06920)\]
+
+| Self-Attentive Constituency Parsing for UCCA-based Semantic Parsing
+| ---
+| Necva Bölücü and Burcu Can.
+| [Paper: [pdf](https://arxiv.org/pdf/2110.00621.pdf)\]
+
+| Subcategorizing Adverbials in Universal Conceptual Cognitive Annotation.
+| ---
+| Zhuxin Wang, Jakob Prange and Nathan Schneider. [LAW-DMR 2021](https://sigann.github.io/LAW-DMR-2021/).
+| [Paper: [pdf](https://aclanthology.org/2021.law-1.10.pdf)\]
+
+| RepGraph: Visualising and Analysing Meaning Representation Graphs.
+| ---
+| Jaron Cohen, Roy Cohen, Edan Toledo and Jan Buys. [EMNLP 2021](https://2021.emnlp.org/) demo.
+| [Paper: [pdf](https://aclanthology.org/2021.emnlp-demo.10.pdf)\] [[Website](https://repgraph.vercel.app/)]
+
+| Data-Driven Annotation of Textual Process Descriptions Based on Formal Meaning Representations.
+| ---
+| Lars Ackermann, Julian Neuberger and Stefan Jablonski. [Lecture Notes in Computer Science](https://link.springer.com/bookseries/558).
+| [Paper: [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-79382-1_5.pdf)\]
+
+| Great Service! Fine-grained Parsing of Implicit Arguments.
+| ---
+| [Ruixiang Cui](https://ruixiangcui.github.io/) and [Daniel Hershcovich](http://danielhers.github.io/). _[IWPT 2021](https://iwpt21.sigparse.org/)._
+| [Paper: [pdf](https://aclanthology.org/2021.iwpt-1.7.pdf)] [Code: [github](https://github.com/ruixiangcui/implicit_parser)]]
 
 | Semantic Structural Decomposition for Neural Machine Translation.
 | ---
@@ -122,7 +152,7 @@ The task included parsing to [AMR](https://amr.isi.edu/), UCCA, PTG, DRG, and [E
 
 | Refining Implicit Argument Annotation For UCCA.
 | ---
-| Ruixiang Cui and [Daniel Hershcovich](http://danielhers.github.io/). _[DMR 2020](https://www.cs.brandeis.edu/~clp/dmr2020/)._
+| [Ruixiang Cui](https://ruixiangcui.github.io/) and [Daniel Hershcovich](http://danielhers.github.io/). _[DMR 2020](https://www.cs.brandeis.edu/~clp/dmr2020/)._
 | [Paper: [pdf](https://www.aclweb.org/anthology/2020.dmr-1.5.pdf)] [Data: [github](https://github.com/ruixiangcui/UCCA-Refined-Implicit-EWT_English)]
 
 | Comparison by Conversion: Reverse-Engineering UCCA from Syntax and Lexical Semantics.
