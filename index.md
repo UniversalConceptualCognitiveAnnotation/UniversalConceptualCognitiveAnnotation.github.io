@@ -52,6 +52,11 @@ The [guidelines](#guidelines) with which each of them was annotated can be found
 |  Excerpt of the PTB WSJ | [[github](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_English-WSJ)\]
 |  German 20K Leagues Under The Sea | [[github](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_German-20K)\]
 |  French 20K Leagues Under The Sea | [[github](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_French-20K)\]
+|  German The Little Prince | [[github](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_German-LPP)\]
+|  Hebrew The Little Prince | [[github](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_Hebrew-LPP)\]
+|  Russian The Little Prince | [[github](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_Russian-LPP)\]
+|  English The Little Prince | [[github](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_English-LPP)\]
+
 
 ## UCCA Parser
 
