@@ -59,9 +59,9 @@ The [guidelines](#guidelines) with which each of them was annotated can be found
 
 Datasets produced by other labs:
 
-| Corpus | Link | Paper 
-| --- | --- | ---
-|  Turkish 50 sentences from the METU-Sabanci Turkish Treebank | [[github](https://github.com/necvabolucu/semantic-dataset)\] | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.10.pdf)\]
+| Corpus | Link | Paper |
+| --- | --- | --- |
+|  Turkish 50 sentences from the METU-Sabanci Turkish Treebank | [[github](https://github.com/necvabolucu/semantic-dataset)\] | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.10.pdf)\] |
 
 
 ## UCCA Parser
